@@ -2487,7 +2487,7 @@ Press a key to assign it to this action.</string>
 
 
     <string name="dialog_regionnopermission_title">Không kết nối</string>
-    <string name="dialog_regionnopermission_text">Ứng dụng không có quyền truy cập vào bộ nhớ ngoài để tạo region. Hãy cấp quyền truy cập bộ nhớ ngoài cho ứng dụng.</string>
+    <string name="dialog_regionnopermission_text">Ứng dụng không có quyền truy cập vào bộ nhớ ngoài để tạo khu vực. Hãy cấp quyền truy cập bộ nhớ ngoài cho ứng dụng.</string>
     <string name="ranger_cmdselecttrees">Chọn cây</string>
     <string name="draft_treeplantertool00_title">Công cụ trồng cây</string>
     <string name="draft_treeplantertool00_text">Công cụ này có thể được sử dụng để ươm nhiều loại cây một cách tự nhiên và thuận tiện.</string>
@@ -2497,10 +2497,10 @@ Press a key to assign it to this action.</string>
     <string name="treeplanter_roughness">Độ bo tròn:</string>
     <string name="treeplanter_brushsize">Kích thước:</string>
     <string name="treeplanter_outofcash">Hết tiền rồi, thứ nghèo khỉ</string>
-    <string name="control_about">About</string>
+    <string name="control_about">Về</string>
     <string name="about_framework">Framework</string>
-    <string name="control_undo">Undo</string>
-    <string name="control_redo">Redo</string>
+    <string name="control_undo">Trở lại</string>
+    <string name="control_redo">Quay lại</string>
     <string name="toolaction_zoneroad">Thêm đường</string>
     <string name="settings_fullscreen_resolution">Độ phân giải toàn màn hình</string>
     <string name="settings_tool_history">Hoàn tác chức năng</string>
